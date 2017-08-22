@@ -1,0 +1,22 @@
+.row {
+    padding: 15px;
+}
+
+.row .row {
+    padding: 0;
+}
+
+#icon {
+    background-color: black;
+    height: 100px;
+}
+
+#nav {
+    height: 75px;
+    background-color: black;
+}
+
+.main {
+    height: 400px;
+    background-color: black;
+}
